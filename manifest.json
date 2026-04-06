@@ -1,0 +1,19 @@
+{
+  "name": "King of Slots",
+  "short_name": "King of Slots",
+  "theme_color": "",
+  "background_color": "#060B0E",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775476839-images-removebg-preview-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

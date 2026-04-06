@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://king-of-slots-slot.com/
+Sitemap: https://king-of-slots-slot.com/sitemap.xml
